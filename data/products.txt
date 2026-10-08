@@ -1,0 +1,14 @@
+Product: iPhone 17 Pro
+Category: Smartphone
+Features: 5G, USB-C, wireless charging, Face ID.
+Price: $1199.
+
+Product: AirPods Pro 3
+Category: Earbuds
+Features: Active Noise Cancellation, wireless charging, Bluetooth.
+Price: $249.
+
+Product: USB-C Cable
+Category: Accessory
+Features: Fast charging and high-speed data transfer.
+Price: $29.
